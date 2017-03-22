@@ -1,0 +1,14 @@
+{
+    "priority": 1,
+    "request": {
+        "url": "/profile-service/v4/clients/DPRD-SHDR.MOBILE.ANDROID-STAGE/guests/refresh-auth/_CvtwRu09r8PhBMeWkwWEQA",
+        "method": "POST"
+    },
+    "response": {
+        "status": 200,
+        "bodyFileName": "/android-a/shdr-get-android-a-auth-body.json",
+        "headers": {
+            "Content-Type": "application/json"
+        }
+    }
+}

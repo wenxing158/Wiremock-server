@@ -1,0 +1,113 @@
+{
+  "avatar": {
+    "links": {
+      "self": {
+        "href": "http://onesource-prod-services.wdw.disney.com/services/guest/v1/character/15655408"
+      }
+    },
+    "name": "Default Avatar"
+  },
+  "contactInformations": [{
+    "details": [{
+      "addressLine1": "4th av 190",
+      "city": "seattle",
+      "country": "US",
+      "postalCode": "98117",
+      "state": "WA",
+      "type": "BILLING"
+    }, {
+      "addressLine1": "4th av 190",
+      "city": "seattle",
+      "country": "US",
+      "postalCode": "98117",
+      "state": "WA",
+      "type": "SHIPPING"
+    }, {
+      "addressLine1": "4th av 190",
+      "city": "seattle",
+      "country": "US",
+      "postalCode": "98117",
+      "state": "WA",
+      "type": "BILLING"
+    }, {
+      "addressLine1": "4th av 190",
+      "city": "seattle",
+      "country": "US",
+      "postalCode": "98117",
+      "state": "WA",
+      "type": "SHIPPING"
+    }],
+    "type": "address"
+  }, {
+    "details": [{
+      "email": "android_a@domain.com"
+    }],
+    "type": "email"
+  }],
+  "countryCode": "US",
+  "dateOfBirth": "1985-04-06",
+  "favoriteCharacter": {
+    "links": {
+      "self": {
+        "href": "http://onesource-prod-services.wdw.disney.com/services/guest/v1/character/15655408"
+      }
+    },
+    "name": "Default Avatar"
+  },
+  "firstName": "Roseldo",
+  "gender": "NOT_SPECIFIED",
+  "guestType": "registered",
+  "lastName": "Garcia",
+  "links": {
+    "wdproAvatar": {
+      "href": "https://api.wdpro.disney.go.com/facility-service/avatars/15655408"
+    },
+    "wdproFavoriteCharacter": {
+      "href": "https://api.wdpro.disney.go.com/facility-service/characters/15655408"
+    },
+    "registeredProfile": {
+      "href": "/assembly/guest/8A8E102F-CDB9-46BA-9B68-2817192C42B6/online-profile"
+    },
+    "ownedGuestsProfile": {
+      "href": "/assembly/guest/8A8E102F-CDB9-46BA-9B68-2817192C42B6/managed-guest-profile-preferences"
+    },
+    "self": {
+      "href": "/assembly/guest/8A8E102F-CDB9-46BA-9B68-2817192C42B6/profile"
+    },
+    "guestIdentifiers": {
+      "href": "/assembly/guest/8A8E102F-CDB9-46BA-9B68-2817192C42B6/identifiers"
+    },
+    "guestAffiliations": {
+      "href": "/assembly/guestAffiliations?guest-id-type=xid&guest-id-value=8A8E102F-CDB9-46BA-9B68-2817192C42B6&site=ALL"
+    }
+  },
+  "middleName": "Q",
+  "suffix": "Sr.",
+  "title": "Mr.",
+  "guestIdentifiers": [{
+    "type": "media-link-id",
+    "value": "9EEC432D257B4D52B8DDC5BC0C9343FE"
+  }, {
+    "type": "gxp-link-id",
+    "value": "43729793"
+  }, {
+    "type": "payment-link-id",
+    "value": "78968630"
+  }, {
+    "type": "swid",
+    "value": "{2213E5DB-48D9-454A-93E5-DB48D9754AF5}"
+  }, {
+    "type": "xid",
+    "value": "8A8E102F-CDB9-46BA-9B68-2817192C42B6"
+  }],
+  "age": "31",
+  "guestEligibility": {
+    "magicPlusParticipantStatus": "ACTIVE",
+    "magicPlusParticipantStatusEffectiveDate": "2014-03-31",
+    "links": {
+      "magicPlusParticipantStatusEvaluationRecords": {
+        "href": "/assembly/guest/8A8E102F-CDB9-46BA-9B68-2817192C42B6/magic-plus-participant-status-evaluation-records"
+      }
+    }
+  }
+}

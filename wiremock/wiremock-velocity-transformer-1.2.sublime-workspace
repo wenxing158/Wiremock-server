@@ -1,0 +1,187 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/Users/j.signoret.becerra/Documents/Important links",
+		"/C/Users/j.signoret.becerra/Documents/fastpass-ui-lib/app/src/main/java/com/disney/wdpro/fastpassui/sample/module/FastPassExampleAppFastPassModule.java",
+		"/C/Users/j.signoret.becerra/Documents/fastpass-ui-lib/app/src/main/java/com/disney/wdpro/fastpassui/sample/module/FastPassExampleAppFacilityModule.java",
+		"/C/Users/j.signoret.becerra/Documents/fastpass-ui-lib/app/src/main/java/com/disney/wdpro/fastpassui/sample/module/FastPassExampleAppProfileModule.java",
+		"/C/Users/j.signoret.becerra/Documents/fastpass-ui-lib/app/src/main/java/com/disney/wdpro/fastpassui/sample/module/FastPassExampleAppTicketAndSalesModule.java",
+		"/C/Users/j.signoret.becerra/fastpass-ui-lib/wiremock/mappings/get-party-mapping.json",
+		"/C/Users/j.signoret.becerra/fastpass-ui-lib/wiremock/__files/get-party-body.json",
+		"/C/Users/j.signoret.becerra/Documents/Differences between the ref app and the dlr app",
+		"/C/Users/j.signoret.becerra/Downloads/fastpass-ui-0.0.1-20160310.195924-3-sources/com/disney/wdpro/fastpassui/choose_party/FastPassChoosePartyFragment.java",
+		"/C/Users/j.signoret.becerra/.gradle/gradle.properties",
+		"/C/Users/j.signoret.becerra/fastpass-ui-lib/app/build.gradle",
+		"/C/Users/j.signoret.becerra/Downloads/fastpass-ui-0.0.1-20160310.195924-3-sources/com/disney/wdpro/fastpassui/animation/FastPassItemAnimator.java",
+		"/C/Users/j.signoret.becerra/Downloads/facility-services-1.2.0/com/disney/wdpro/facility/model/Facility.class",
+		"/C/Users/j.signoret.becerra/ref-park-template/app/build.gradle",
+		"/C/Users/j.signoret.becerra/ref-park-template/build.gradle",
+		"/C/Users/j.signoret.becerra/ref-park-template/app/newrelic_keys.properties",
+		"/C/Users/j.signoret.becerra/Downloads/park-lib-0.0.2-20151026.185009-26-sources/META-INF/MANIFEST.MF",
+		"/C/Users/j.signoret.becerra/Downloads/facility-services-1.0-20150415.213119-7/com/disney/wdpro/facility/business/WaitTimesApiClient.class",
+		"/C/Users/j.signoret.becerra/ref-park-template/app/src/main/AndroidManifest.xml",
+		"/C/Users/j.signoret.becerra/ref-park-template/local.properties",
+		"/C/Users/j.signoret.becerra/ref-park-template/settings.gradle"
+	],
+	"find":
+	{
+		"height": 28.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"reach",
+			"body_empty"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 28.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "wiremock-velocity-transformer-1.2.sublime-project",
+	"replace":
+	{
+		"height": 52.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 188.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

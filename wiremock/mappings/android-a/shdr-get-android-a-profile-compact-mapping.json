@@ -1,0 +1,14 @@
+{
+  "priority": 1,
+  "request": {
+    "url": "/profile-service/v4/guests/%7B2213E5DB-48D9-454A-93E5-DB48D9754AF5%7D/compact-profile?site=dlr",
+    "method": "GET"
+  },
+  "response": {
+    "status": 200,
+    "bodyFileName": "/android-a/shdr-get-android-a-profile-compact-body.json",
+    "headers": {
+      "Content-Type": "application/json"
+    }
+  }
+}

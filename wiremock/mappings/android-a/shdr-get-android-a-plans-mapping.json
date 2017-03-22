@@ -1,0 +1,14 @@
+{
+    "priority": 1,
+    "request": {
+        "url": "/orchestration/guest/%7B2213E5DB-48D9-454A-93E5-DB48D9754AF5%7D/selections",
+        "method": "GET"
+    },
+    "response": {
+        "status": 200,
+        "bodyFileName": "/android-a/shdr-get-android-a-my-plans-body.vm",
+        "headers": {
+            "Content-Type": "application/json"
+        }
+    }
+}

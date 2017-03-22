@@ -1,0 +1,20 @@
+{
+    "priority": 1,
+    "request": {
+        "urlPattern": "/profile-service/v4/clients/DPRD-SHDR.MOBILE.ANDROID-STAGE/guests/login",
+        "method": "POST",
+        "bodyPatterns": [
+            {
+                "equalToJson": "{ \"loginValue\" : \"android_a@domain.com\"}",
+                "jsonCompareMode": "LENIENT"
+            }
+        ]
+    },
+    "response": {
+        "status": 200,
+        "bodyFileName": "/android-a/shdr-get-android-a-auth-body.json",
+        "headers": {
+            "Content-Type": "application/json"
+        }
+    }
+}

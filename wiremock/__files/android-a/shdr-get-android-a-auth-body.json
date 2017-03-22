@@ -1,0 +1,53 @@
+{
+    "links": {},
+    "data": {
+        "etag": "459943689",
+        "token": {
+            "accessToken": "3x57je1dmCE6r2vdViy1Jf",
+            "refreshToken": "J7rSbYsbsziVkmX2Llux3X",
+            "ttl": 899,
+            "refreshTtl": 86400,
+            "scope": "AUTHZ_GUEST_SECURED_SESSION",
+            "authenticator": "CUR",
+            "tokenType": "bearer",
+            "assertionType": "consumer-direct",
+            "swid": "{2213E5DB-48D9-454A-93E5-DB48D9754AF5}"
+        },
+        "profile": {
+            "swid": "{2213E5DB-48D9-454A-93E5-DB48D9754AF5}",
+            "username": "android_a@domain.com",
+            "email": "android_a@domain.com",
+            "firstName": "EMMA",
+            "lastName": "SHEN",
+            "dateOfBirth": "1982-01-06",
+            "region": "CN",
+            "status": "ACTIVE",
+            "registrationDate": "2017-02-15",
+            "ageBand": "ADULT",
+            "addresses": [{
+                "line1": "",
+                "line2": "",
+                "line3": "",
+                "city": "",
+                "stateProvince": "",
+                "country": "CN",
+                "postalCode": "",
+                "profileDistrict": ""
+            }],
+            "characterVal": "",
+            "lastLoginTimestamp": "2017-02-20 11:39:00",
+            "loginTimestamp": "2017-02-20 11:53:30",
+            "communicationPreference": "0",
+            "loginType": "email",
+            "verifyStatus": "true"
+        },
+        "marketing": [{
+            "code": "shdrMarketing",
+            "subscribed": true
+        }, {
+            "code": "shdrMarketingFamily",
+            "subscribed": true
+        }],
+        "legalAssertions": []
+    }
+}

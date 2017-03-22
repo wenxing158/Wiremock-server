@@ -1,0 +1,1 @@
+java -cp "wiremock/*" com.github.tomakehurst.wiremock.standalone.WireMockServerRunner --verbose --extensions com.github.radadam.wiremock.transformer.VelocityResponseTransformer --root-dir wiremock/ --port 8088

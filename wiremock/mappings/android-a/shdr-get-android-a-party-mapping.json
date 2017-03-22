@@ -1,0 +1,15 @@
+{
+    "priority": 1,
+    "request": {
+        "urlPattern": "/orchestration/guest/%7B2213E5DB-48D9-454A-93E5-DB48D9754AF5%7D/party",
+        "method": "GET"
+    },
+    "response": {
+        "status": 200,
+        "fixedDelayMilliseconds": 1000,
+        "bodyFileName": "/android-a/shdr-get-android-a-party-body.json",
+        "headers": {
+            "Content-Type": "application/json"
+        }
+    }
+}

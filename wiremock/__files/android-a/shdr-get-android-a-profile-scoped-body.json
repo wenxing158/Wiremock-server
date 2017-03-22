@@ -1,0 +1,62 @@
+{
+  "links": {
+    "traveler": {
+      "href": "http://service-internal-hkdl-cn-prod.wdpro.starwave.com/profile-service/guests/%7B9290b5d5-b9a1-42d5-bfb3-8ee7c8e8cad4%7D/traveler"
+    },
+    "self": {
+      "href": "http://service-internal-hkdl-cn-prod.wdpro.starwave.com/profile-service/clients/DPRD-SHDR.MOBILE.ANDROID-PROD/guests/%7B9290b5d5-b9a1-42d5-bfb3-8ee7c8e8cad4%7D/profile"
+    },
+    "affiliations": {
+      "href": "http://service-internal-hkdl-cn-prod.wdpro.starwave.com/profile-service/guests/%7B9290b5d5-b9a1-42d5-bfb3-8ee7c8e8cad4%7D/affiliations"
+    },
+    "securityQuestions": {
+      "href": "http://service-internal-hkdl-cn-prod.wdpro.starwave.com/profile-service/guests/%7B9290b5d5-b9a1-42d5-bfb3-8ee7c8e8cad4%7D/security-questions"
+    }
+  },
+  "data": {
+    "etag": "459943689",
+    "profile": {
+      "swid": "{9290b5d5-b9a1-42d5-bfb3-8ee7c8e8cad4}",
+      "username": "android_a@domain.com",
+      "email": "android_a@domain.com",
+      "firstName": "Emma",
+      "lastName": "Shen",
+      "dateOfBirth": "1955-07-17",
+      "region": "CN",
+      "status": "ACTIVE",
+      "registrationDate": "2017-02-20",
+      "ageBand": "ADULT",
+      "addresses": [{
+        "line1": "",
+        "line2": "",
+        "line3": "",
+        "city": "",
+        "stateProvince": "",
+        "country": "CN",
+        "postalCode": "",
+        "profileDistrict": ""
+      }],
+      "phones": [{
+        "number": "18955555555",
+        "internationalPrefix": "86",
+        "type": "MOBILE"
+      }],
+      "characterVal": "",
+      "lastLoginTimestamp": "",
+      "loginTimestamp": "2017-02-20 10:53:10",
+      "communicationPreference": "1",
+      "loginType": "mobile",
+      "verifyStatus": "true"
+    },
+    "marketing": [{
+      "code": "shdrMarketing",
+      "subscribed": true
+    }, {
+      "code": "shdrMarketingFamily",
+      "subscribed": true
+    }]
+  },
+  "self": {
+    "href": "http://service-internal-hkdl-cn-prod.wdpro.starwave.com/profile-service/clients/DPRD-SHDR.MOBILE.ANDROID-PROD/guests/%7B9290b5d5-b9a1-42d5-bfb3-8ee7c8e8cad4%7D/profile"
+  }
+}

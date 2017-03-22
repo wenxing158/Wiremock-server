@@ -1,0 +1,11 @@
+{
+    "name": "create-user",
+    "version": "0.0.1",
+    "description": "create a new android mock user from an existing one.",
+    "author": "",
+    "license": "MIT",
+    "private": true,
+    "dependencies": {
+        "fs-extra": "1.0.0"
+    }
+}
